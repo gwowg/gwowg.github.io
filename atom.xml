@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwowg.github.io</id>
-    <title>Gwo</title>
-    <updated>2020-04-21T07:50:39.724Z</updated>
+    <title>gwowg</title>
+    <updated>2020-04-21T08:13:37.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gwowg.github.io"/>
     <link rel="self" href="https://gwowg.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>知行合一。</subtitle>
     <logo>https://gwowg.github.io/images/avatar.png</logo>
     <icon>https://gwowg.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gwo</rights>
+    <rights>All rights reserved 2020, gwowg</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://gwowg.github.io/post/hello-gridea</id>
-        <link href="https://gwowg.github.io/post/hello-gridea">
+        <id>https://gwowg.github.io/post/hello-gridea/</id>
+        <link href="https://gwowg.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
